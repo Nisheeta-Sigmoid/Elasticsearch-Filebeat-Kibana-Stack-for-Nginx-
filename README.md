@@ -97,8 +97,6 @@ docker-compose --version
 
 **Don't have them?** 
 - [Install Docker](https://www.docker.com/products/docker-desktop)
-- Docker Compose usually comes with Docker, but [check here if you need it](https://docs.docker.com/compose/install/)
-
 ---
 
 ## 🚀 How To Start (Step By Step)
